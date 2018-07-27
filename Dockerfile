@@ -1,6 +1,6 @@
 FROM python:3
 
-LABEL maintainer="Stefano Butera <stefno.butera@nethnic.com>"
+LABEL maintainer="Stefano Butera <stefano.butera@nethnic.com>"
 
 RUN pip install jupyterlab
 
